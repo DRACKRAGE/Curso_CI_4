@@ -1,4 +1,4 @@
-name: Entrega continua
+name: Load Test
 
 on:
   workflow_call:
